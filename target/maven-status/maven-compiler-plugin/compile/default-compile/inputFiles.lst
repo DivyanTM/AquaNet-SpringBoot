@@ -1,0 +1,12 @@
+D:\AquaNet\src\main\java\com\divyan\aquanet\AquaNetApplication.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\controllers\SensorDataController.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\controllers\SensorRest.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\controllers\UiController.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\controllers\UserController.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\model\MessageProvider.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\model\SensorData.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\model\User.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\repo\SensorDataRepository.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\repo\UserRepository.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\service\MailService.java
+D:\AquaNet\src\main\java\com\divyan\aquanet\service\WhatsappService.java

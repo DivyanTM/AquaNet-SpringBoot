@@ -1,0 +1,12 @@
+com\divyan\aquanet\model\User.class
+com\divyan\aquanet\controllers\SensorDataController.class
+com\divyan\aquanet\repo\SensorDataRepository.class
+com\divyan\aquanet\AquaNetApplication.class
+com\divyan\aquanet\controllers\UserController.class
+com\divyan\aquanet\controllers\UiController.class
+com\divyan\aquanet\model\SensorData.class
+com\divyan\aquanet\service\WhatsappService.class
+com\divyan\aquanet\repo\UserRepository.class
+com\divyan\aquanet\model\MessageProvider.class
+com\divyan\aquanet\service\MailService.class
+com\divyan\aquanet\controllers\SensorRest.class
